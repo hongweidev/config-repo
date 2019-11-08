@@ -16,3 +16,6 @@ mybatis:
   typeAliasesPackage: com.example.order.domain
 env:
   dev6
+girl:
+  name: lili
+  age: 18
